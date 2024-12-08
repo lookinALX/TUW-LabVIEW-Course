@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="23008000">
+	<Property Name="NI.LV.All.SaveVersion" Type="Str">23.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="varPersistentID:{34EB54EF-BAAF-4333-81A2-9048A6443187}" Type="Ref">/My Computer/src/subVIs/SharedVariables.lvlib/Zahler1</Property>
 	<Property Name="varPersistentID:{5532E2BA-5309-4C2B-9C38-C350D017A604}" Type="Ref">/My Computer/src/subVIs/SharedVariables.lvlib/Counter</Property>
